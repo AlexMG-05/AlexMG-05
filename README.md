@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexMG-05
-- 👀 I’m interested in gym, reading and some coding
+- 👀 I’m interested in going to the gym, reading and some coding
 - 🌱 I’m currently learning software engineering, german and side skills
-- 💞️ I’m looking to collaborate in companies
-- 📫 How to reach me a.martingz05@gmail.com
+- 💪 I’m looking forward to collaborating in companies
+- 📫 How to reach me: a.martingz05@gmail.com
 - ⚡ Fun fact: I love travelling
 
 <!---
