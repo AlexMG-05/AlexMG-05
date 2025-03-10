@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexMG-05
+- 👋 Hi, I’m Alejandro Martín, but just call me Alex
 - 👀 I’m interested in going to the gym, reading and some coding
 - 🌱 I’m currently learning software engineering, german and side skills
 - 💪 I’m looking forward to collaborating in companies
