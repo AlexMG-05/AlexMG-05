@@ -1,8 +1,8 @@
-# Who am I? 🤔
+# About me 🤔
 
 My name is Alejandro Martín González, but you can call me Alex.
 
-I’m a **Software Engineering** student at the [University of Seville](https://www.us.es/) who's passionate in solving problems, engineering and computer science. Not only that, I'm also working in side skills such as leadership, teamwork, learning languages and so on.
+I’m a **Software Engineering** student at [University of Seville](https://www.us.es/) who's passionate in solving problems, engineering and computer science. Not only that, I'm also working in side skills such as leadership, teamwork, learning languages and so on.
 
 ## What do I offer? 🚀
 - **Programming**: Python, Java, JavaScript, C++.
@@ -11,7 +11,8 @@ I’m a **Software Engineering** student at the [University of Seville](https://
   
 ## Educational background 🎓
 - **Bachelor's degree in Software Engineering** – University of Seville (2023–Present).
-- **Excellence in pre-university high school** – With an average of 9.95 out of 10 in [Centro Concertado Juan XXIII Cartuja](https://juanxxiiicartuja.com/), Granada (2021–2023).
+- **Excellence in exams for accessing University** - Scored 13.53 out of 14.
+- **Proficiency in pre-university high school** – With an average of 9.95 out of 10 in [Centro Concertado Juan XXIII Cartuja](https://juanxxiiicartuja.com/), Granada (2021–2023).
 
 ## Language skills 🗣️
 - **Spanish**: native.
