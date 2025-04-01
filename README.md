@@ -27,7 +27,7 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
 - I enjoy reading books for personal development & growth.
 
 ## What are you waiting for? Contact me 📲
-- Email: a.martingz05@gmail.com
+- **Email**: a.martingz05@gmail.com
 - [Linkedin](www.linkedin.com/in/amartingz05/)
 - [Instagram](https://www.instagram.com/sralex_733/)
 
