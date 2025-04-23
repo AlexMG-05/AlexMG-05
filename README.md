@@ -9,11 +9,6 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
 - **Tools & Frameworks**: Git, Postman, working with APIs, etc.
 - **Teaching**: experience as a **Freelance Math, Physics and Programming private teacher**.
   
-## Educational background 🎓
-- **Bachelor's degree in Software Engineering** – University of Seville (2023–Present).
-- **Excellence in exams for accessing University** - Scored 13.53 out of 14.
-- **Proficiency in pre-university high school** – With an average of 9.95 out of 10 in [Centro Concertado Juan XXIII Cartuja](https://juanxxiiicartuja.com/), Granada (2021–2023).
-
 ## Language skills 🗣️
 - **Spanish**: native.
 - **English**: Cambridge Advanced Exam (CAE), which stands for C1 in the CEFR.
@@ -31,9 +26,14 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
 - [Linkedin](www.linkedin.com/in/amartingz05/)
 - [Instagram](https://www.instagram.com/sralex_733/)
 
----
-
-> *"I don't stop when I'm tired. I stop when I'm done"* – David Goggins
+<!-- Github Stats -->
+ <div align="center">
+   <table>
+     <tr>
+       <td><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexMG-05&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></td>
+     </tr>
+   </table>
+ </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=AlexMG-05)
 <!---
