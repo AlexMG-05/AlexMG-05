@@ -16,7 +16,7 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
 
 ## A more personal view about me 🔍
 - I'm interested in learning new things, specially those who improve my proffesional profile or quality of life.
-- I absolutely love travelling 🛫. I have visited +20 countries in 4 different continents and I'm looking forward to visiting many more.
+- I absolutely love travelling 🛫. I have visited +20 countries across 4 different continents and I'm looking forward to visiting many more.
 - I enjoy having contact with people from various countries & backgrounds, as well as enriching my culture.
 - I am a sport lover. Whether it's in the gym lifting cold steel, hiking in the nature or going for a ride in a mountain bike.
 - I enjoy reading books for personal development & growth.
