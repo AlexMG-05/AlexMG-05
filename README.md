@@ -35,7 +35,7 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
    </table>
  </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=AlexMG-05)
+![Prueba](https://komarev.com/ghpvc/?username=AlexMG-05)
 <!---
 AlexMG-05/AlexMG-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
