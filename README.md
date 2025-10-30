@@ -13,6 +13,7 @@ I’m a **Software Engineering** student at [University of Seville](https://www.
 - **Spanish**: native.
 - **English**: Cambridge Advanced Exam (CAE), which stands for C1 in the CEFR.
 - **German**: B1 level at [Languages Institution at University of Seville](https://institutodeidiomas.us.es/).
+- **Italian**: basic competent level after having lived in Italy for one year.
 
 ## A more personal view about me 🔍
 - I'm interested in learning new things, specially those who improve my proffesional profile or quality of life.
