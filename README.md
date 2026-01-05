@@ -22,12 +22,12 @@ I am a Software Engineering undergraduate at the **University of Seville**, spec
 #### 🚀 **[DeliverUS: Distributed N-Tier Architecture](https://github.com/AlexMG-05/DeliverUS)**
 * **Role:** Full-Stack developer.
 * **Tech:** JavaScript (Node.js), HTML & CSS (React Native).
-* **Engineering Highlight:** Decoupled backend services via stateless REST APIs and solved critical concurrency issues (race conditions) using transaction isolation levels.
+* **Engineering highlight:** Decoupled backend services via stateless REST APIs and solved critical concurrency issues using transaction isolation levels.
 
 #### 🔄 **[GitMiner: Cross-Platform Data Middleware](LINK_TO_YOUR_REPO)**
 * **Role:** Systems Developer.
-* **Tech:** Node.js, REST Architecture, JSON.
-* **Engineering Highlight:** Engineered a custom aggregation service to unify disparate data streams from **GitHub** and **BitBucket**, normalizing schemas into a single source of truth.
+* **Tech:** Spring Boot, Java, REST Architecture, JSON.
+* **Engineering highlight:** Engineered a custom aggregation service to unify disparate data streams from **GitHub** and **BitBucket**.
 
 ---
 
