@@ -41,7 +41,7 @@ I am a Software Engineering undergraduate at the **University of Seville**, spec
 
 ### 📫 Contact
 * [LinkedIn](https://www.linkedin.com/in/amartingz05)
-* [Email](mailto:a.martingz05@gmail.com)
+* Email: a.martingz05@gmail.com
 <!---
 ![Profile views](https://komarev.com/ghpvc/?username=AlexMG-05)
 
