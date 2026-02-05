@@ -34,8 +34,8 @@ I am a Software Engineering undergraduate at the **University of Seville**, spec
 ### 🌍 Global Experience & Education
 
 * **🇪🇸 University of Seville:** BSc in Software Engineering.
-* **🇮🇹 University of Pavia:** Erasmus+ scholar (AI & Computer Vision).
-* **🇨🇳 Beijing Institute of Technology:** Global Leadership Program (Strategic Problem Solving).
+* **🇮🇹 University of Pavia:** Erasmus+ scholar.
+* **🇨🇳 Beijing Institute of Technology:** Global Leadership Program.
 
 ---
 
